@@ -1,0 +1,35 @@
+CH19 PAGE 005 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve exact wording and case from source; styling/capitalization changes require editorial authorization.
+
+CH19-P005-PN01
+DISPLAY | Diegetic | IDs: CH19-U0090
+CROWN HEIGHTS
+DISPLAY | Diegetic | IDs: CH19-U0091
+FOUNDRY WARD
+DISPLAY | Diegetic | IDs: CH19-U0092
+EAST RAIL
+DISPLAY | Diegetic | IDs: CH19-U0093
+LOW BASIN
+DISPLAY | Diegetic | IDs: CH19-U0094
+RIVER GATE
+DISPLAY | Diegetic | IDs: CH19-U0095
+NORTH HOSPITAL
+DISPLAY | Diegetic | IDs: CH19-U0096
+OLD MARKET
+DISPLAY | Diegetic | IDs: CH19-U0097
+WESTERN AERODROME
+
+CH19-P005-PN02
+[SILENT — NO LETTERING]
+
+CH19-P005-PN03
+DIALOGUE | Orin | IDs: CH19-U0020
+Half the Low Basin households were moved twice.
+The army still counts them at addresses that no longer exist.
+
+CH19-P005-PN04
+[SILENT — NO LETTERING]
+
+CH19-P005-PN05
+CAPTION | Caption | IDs: CH19-U0021
+A city could not be healed like a wound. It had too many places to bleed.

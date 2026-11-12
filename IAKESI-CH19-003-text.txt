@@ -1,0 +1,22 @@
+CH19 PAGE 003 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve exact wording and case from source; styling/capitalization changes require editorial authorization.
+
+CH19-P003-PN01
+DIALOGUE | Vey | IDs: CH19-U0009
+The regulator only shapes current. Cracked conduits waste mana; contaminated lattices throw it back.
+CAPTION | Caption | IDs: CH19-U0010
+Recovery required time—and someone willing to stop Midori if she lost control.
+
+CH19-P003-PN02
+DIALOGUE | Midori | IDs: CH19-U0011
+It can hold more.
+DIALOGUE | Vey | IDs: CH19-U0012
+You cannot safely give more yet. Capacity and safe transfer are different things.
+
+CH19-P003-PN03
+DIALOGUE | Vey | IDs: CH19-U0013
+Mana did its part. The machine did not.
+
+CH19-P003-PN04
+DIALOGUE | Sela | IDs: CH19-U0014
+We need repair crews, clean pipe, and a way through the collapsed intake.

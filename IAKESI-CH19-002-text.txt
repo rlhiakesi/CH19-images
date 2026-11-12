@@ -1,0 +1,24 @@
+CH19 PAGE 002 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve exact wording and case from source; styling/capitalization changes require editorial authorization.
+
+CH19-P002-PN01
+DIALOGUE | Vey | IDs: CH19-U0005
+Use the regulator. Raw mana splits Nyssarian lattices.
+
+CH19-P002-PN02
+DIALOGUE | Midori | IDs: CH19-U0006
+I carried mana before the bombs. I absorbed only the third and fourth fallout.
+DIALOGUE | Vey | IDs: CH19-U0007
+Each bomb held one quarter of a Grand Crystal.
+With your prior reserve and both fallout fields, you now hold perhaps one quarter to one half. Less is safely transferable.
+
+CH19-P002-PN03
+DIALOGUE | Healer | IDs: CH19-U0008
+Her eyes are nearing red again: overload.
+More absorption could kill her. A forced release could take her control, and this poisoned reserve cannot be discharged quickly.
+
+CH19-P002-PN04
+[SILENT — NO LETTERING]
+
+CH19-P002-PN05
+[SILENT — NO LETTERING]
